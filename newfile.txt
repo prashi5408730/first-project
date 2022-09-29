@@ -1,0 +1,5 @@
+Hey this is a new file
+
+I am using git bash for the first time
+
+Happy to use this.. as this is working quiet better than the linux terminal
