@@ -3,3 +3,7 @@ Hey this is a new file
 I am using git bash for the first time
 
 Happy to use this.. as this is working quiet better than the linux terminal
+
+this is a very nice file..
+
+and i am very happy to use this 
